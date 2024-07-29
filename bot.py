@@ -11,7 +11,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(script_dir, "request.png")
 
 
-TOKEN ='MTI2Mzg5ODkwODA0NDgyMDQ4MA.GVHf8f.npMMWng7Gecs1_4Uzi47yXAH8NhAZBj_y9KQPU'
+TOKEN ='MTIzNDAyMzQ0MzQ2NTUwMjc1Mw.Gg43ah.BW9tjE-htb4Wsnl5H3664r1iYlDeFxn0z06nok'
 
 intents = discord.Intents.all()
 
